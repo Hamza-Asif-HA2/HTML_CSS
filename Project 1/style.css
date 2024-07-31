@@ -127,4 +127,22 @@ img{
     font-size: 17px;
 }
 
+.down_arrow{
+    border: 1px solid black;
+    border-radius: 50%;
+    position: absolute;
+    padding: 5px 7px;
+    bottom: 2%;
+    left: 50%;
+    font-size: 38px;
+    transition: all 1s;
+
+}
+
+.down_arrow:hover{
+    background-color: black;
+    scale: 1.2;
+    color: #fff;
+}
+
 
