@@ -38,3 +38,14 @@ Landing Page of DentyTech Website  [Desgin from Dribbble](https://dribbble.com/s
 
 # Footer
 ![Project2_Footer](Project2-8.PNG)
+
+
+# Project 3
+
+[Pinterest Portfolio Design](https://pin.it/7slFtHDMh)
+
+# AboutxHero Section
+![Project03](Project3-1.PNG)
+
+# Work-Section
+![Project03](Project3-2.PNG)
