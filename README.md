@@ -35,3 +35,6 @@ Landing Page of DentyTech Website  [Desgin from Dribbble](https://dribbble.com/s
 # Clients Section
 
 ![Project2](Project2-7.PNG)
+
+# Footer
+![Project2_Footer](Project2-8.PNG)
